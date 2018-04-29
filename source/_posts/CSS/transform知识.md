@@ -51,7 +51,7 @@ tags:
 
 - 场景元素过渡动画、过渡动画、元素位移、旋转等等
 
-  ![](../images/snipaste_20170528_131542.png) 
+  ![](../../images/snipaste_20170528_131542.png) 
 
 ### `rotate(angle)`
 
